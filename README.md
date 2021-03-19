@@ -21,4 +21,3 @@
 > > https://fred.stlouisfed.org/series/BAMLH0A0HYM2EY
 > > * WTI _ Crude Oil Price (Yahoo Finance)<br>
 > > https://finance.yahoo.com/quote/CL=F?p=CL=F&.tsrc=fin-srch <br>
-> > ![Alt text](/path/to/img.jpg)
