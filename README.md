@@ -1,1 +1,1 @@
-# korea_ver-finviz-
+# Quant_Project (solo) -
