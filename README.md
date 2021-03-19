@@ -11,7 +11,7 @@
 > > * Google Colab <br>
 > > https://colab.research.google.com/drive/1Gw9PhsBfbKKa3j3-4I4woP3iLPXT09Zx#scrollTo=18OZP0qU0iQy<br>
 > > * Github <br>
-> > https://github.com/wjdqlsdlsp/Quant_Project-Solo--/blob/main/Kospi_Analysis.ipynb<br>
+> > Kospi_Analysis.ipynb<br>
 > > ### 사용 데이터셋
 > > * 주식종목 데이터 (KRX)<br>
 > > http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0201020101
