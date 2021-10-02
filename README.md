@@ -1,4 +1,4 @@
-# Quant_Project (solo) - From. 2021_03_19 ~
+# Quant_Project
 
 > # 개요
 > * 퀀트란 무엇일까???
