@@ -1,9 +1,12 @@
-# Quant_Project
-
 # 개요
- - 퀀트란 Quantitative 와 Analyst의 합성어로, 수학 및 통계에 기반해 투자 모델을 만들거나 금융 시장 변화 예측을 말합니다.
- - KOSPI 시가총액 상위 100개의 주가를 ML/DL 방식을 이용하여 예측하고자 합니다.
----
+본 프로젝트는 세종대학교 2021 SW/AI 해커톤를 통해 제작되었습니다.
+> - 퀀트란 Quantitative 와 Analyst의 합성어로, 수학 및 통계에 기반해 투자 모델을 만들거나 금융 시장 변화 예측을 말합니다.
+> - KOSPI 시가총액 상위 100개의 주가를 ML/DL 방식을 이용하여 예측하고자 합니다.
+
+**기술스택:**
+- Kospi 시가총액 기준 상위 100개 종목 10년치 주식 데이터
+- 
+
 > # 1. 한국 시장 특성 이해하기
 > > ## 사용 코드 
 > > * Link: [Google colab](https://colab.research.google.com/drive/1Gw9PhsBfbKKa3j3-4I4woP3iLPXT09Zx#scrollTo=18OZP0qU0iQy)
