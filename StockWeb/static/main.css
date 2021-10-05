@@ -1,0 +1,219 @@
+/* setting */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.row_left {
+  display: flex;
+  justify-content: left;
+}
+
+.row_right {
+  display: flex;
+  justify-content: right;
+}
+
+.col {
+  display: flex;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: #7a7671;
+}
+
+.select_box::-webkit-scrollbar {
+  width: 5px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.select_box::-webkit-scrollbar-thumb {
+  background-color: #ffc074;
+  width: 5px;
+}
+
+.select_box::-webkit-scrollbar-track {
+}
+/* header */
+
+.head {
+  height: 6vh;
+  width: 100%;
+  font-size: 150%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin: 0px 0px 0px 10vw;
+}
+
+.title {
+  font-size: 150%;
+  font-weight: bold;
+  margin: 1vh 0px 0px 0px;
+}
+
+.p1 {
+  color: black;
+}
+
+.p2 {
+  color: #ffc074;
+}
+
+.chart_box,
+.article,
+.cloud_img,
+.anomaly_button {
+  border-radius: 10px 10px 10px 10px;
+}
+
+/* mid */
+
+.mid {
+  width: 100%;
+  margin-top: 8vh;
+}
+
+.chart_box {
+  background-color: #faf1e6;
+  width: 82%;
+  height: 52vh;
+  box-shadow: 5px 5px 5px 5px rgb(245, 245, 245);
+}
+
+/* rank box */
+
+.select_box {
+  width: 18vw;
+  height: 48vh;
+  background-color: #faf1e6;
+  margin: 0px 0px 0px 1.5vw;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+.rank_box {
+  background-color: #fdf7ef;
+  width: 14.5vw;
+  height: 6vh;
+  display: block;
+  font-weight: bold;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  padding: 0.5vh 0.5vw 0.5vh 1vw;
+  background-image: url("../../웹/새 폴더/image/samsung.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: #615b54;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.rank_box:hover {
+  transform: scale(1.05, 1.05);
+  -webkit-transition: -webkit-transform linear 0.25s;
+}
+
+/* jungle */
+
+#jungle {
+  width: 100%;
+  height: 8vh;
+}
+#forbutton {
+  width: 82%;
+}
+.anomaly_button {
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  width: 100vw;
+  text-align: center;
+  border: None;
+  font-size: 120%;
+  font-weight: 600;
+  color: rgb(63, 63, 63);
+}
+
+.anomaly_button:hover {
+  transform: scale(1.1, 1.1);
+  -webkit-transition: -webkit-transform ease 0.4s;
+}
+
+#button_box {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+}
+
+/* bot */
+
+.bot {
+  width: 100%;
+  height: 40vh;
+  background-color: white;
+}
+
+.bot_box {
+  padding-top: 0vh;
+  box-shadow: 5px 5px 5px 5px rgb(245, 245, 245);
+}
+
+.article {
+  margin-right: 1vw;
+  width: 40%;
+  height: 30vh;
+  background-color: #faf1e6;
+  color: #7a7671;
+  box-shadow: 5px 5px 0px 0px rgb(245, 245, 245, 0.9);
+}
+
+.cloud_box {
+  margin-left: 1vw;
+  width: 40%;
+  height: 30vh;
+}
+
+.news_title {
+  margin: 3vh 0px 0px 5vw;
+  width: 30vw;
+  height: 4vh;
+  font-size: 120%;
+  max-width: 30vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: bold;
+  box-shadow: 0px 3px 0px 0px lightgray;
+}
+
+.cloud_img {
+  width: 100%;
+  height: 100%;
+}
+
+.percent {
+  color: #e01919;
+  font-size: 95%;
+  margin: 0vh 0px 0px 2vw;
+}
+
+.company_name {
+  margin: -5.2vh 0px 0px 2vw;
+}
