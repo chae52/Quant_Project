@@ -1,6 +1,7 @@
 # 개요
 
-<code>`본 프로젝트는 세종대학교 2021 SW/AI 해커톤를 통해 진행되었습니다. 이후 추가 작업 중 `</code> 
+<code>`본 프로젝트는 세종대학교 2021 SW/AI 해커톤를 통해 진행되었습니다. 🏆장려상 수상`</code> 
+2021.10.1 ~ 2 (무박 2일)
 
 퀀트란 Quantitative 와 Analyst의 합성어로, 수학 및 통계에 기반해 투자 모델을 만들거나 금융 시장 변화 예측을 말합니다. 
 
@@ -81,5 +82,5 @@
 
 
 <br>
-
-#### 팀원 : 김찬영 / 박정빈 / 박승일 / 이재훈 / 이채원
+#### 잘되면 창업 
+#### 팀원 : [김찬영](https://github.com/kochanha) / [박정빈](https://github.com/wjdqlsdlsp) / [박승일](https://github.com/bob8dod) / [이재훈](https://github.com/dlwogns1205) / [이채원](https://github.com/chae52)
