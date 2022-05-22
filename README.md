@@ -49,7 +49,7 @@
 ### Web
 ![image](https://user-images.githubusercontent.com/41178045/169684112-c71aab9b-8ebb-4af8-8d1f-2d18d071adeb.png)
 - 그래프에 하이라이트된 구간은 이상치 감지를 통해 평소와 다른 그래프를 나타낸 구간을 표현했습니다.
-- 구간의 날짜에 해당하는 주식과 관련한 뉴스를 표시했습니다.
+- 구간 버튼을 누르면 구간의 날짜에 해당하는 주식과 관련한 뉴스를 표시했습니다.
 - 가져온 연관 뉴스들의 키워들 word cloud로 요약했습니다.
 
 <br>
@@ -82,5 +82,10 @@
 
 
 <br>
-#### 잘되면 창업 
-#### 팀원 : [김찬영](https://github.com/kochanha) / [박정빈](https://github.com/wjdqlsdlsp) / [박승일](https://github.com/bob8dod) / [이재훈](https://github.com/dlwogns1205) / [이채원](https://github.com/chae52)
+
+
+#### 잘되면 창업
+#### 팀원
+
+
+[김찬영](https://github.com/kochanha) / [박정빈](https://github.com/wjdqlsdlsp) / [박승일](https://github.com/bob8dod) / [이재훈](https://github.com/dlwogns1205) / [이채원](https://github.com/chae52)
